@@ -15,4 +15,5 @@ When you visit a web page, the browser makes request(s) to the web server for th
 ### Exercise
 1. Which file types are used in this web page and how are they organized?
 2. What is the Remote Address of 'team13/'?
-3. What is the Status Code of 'team13/' request?
+3. What is the port number of this web page?
+4. What is the Status Code of 'team13/' request?
