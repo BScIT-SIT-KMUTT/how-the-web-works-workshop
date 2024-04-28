@@ -5,7 +5,6 @@
 
 
 ---
-## Inspect Web Page
 When you visit a web page, the browser makes request(s) to the web server for the documents (html/css/images/...). The web page can be inspected.
 1. Open `http://oneday24.sit.kmutt.ac.th/team13/`
 2. Open **source**
