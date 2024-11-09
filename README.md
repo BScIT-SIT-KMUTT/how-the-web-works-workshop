@@ -1,11 +1,11 @@
 # How the Web Works Workshop
-\# ONE DAY with me IT BANGMOD  
 \# How the Web Works Workshop  
 \# SIT@KMUTT
 
 ### Interactivity
-* [\[survey\] Getting to know you](https://forms.office.com/r/8kYXK2FFQc)
-* [\[menti\] Interact in class](https://www.menti.com/alqdn6qrcfvb)
+* [\[survey\] Getting to know you](https://forms.office.com/r/JNNG9NpeUV)
+* [\[menti\] Interact in class](https://www.menti.com/alnorzkzmhvn)
+* [\[menti\] Feedback after workshop](https://forms.office.com/r/CR3RMMgbZ0)
 
 ### Steps by Steps Activities
 * [01 Inspect Web](docs/01-inspect-web.md)
