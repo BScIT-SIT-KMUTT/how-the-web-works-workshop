@@ -25,4 +25,4 @@ There are many tools to inspect and diagnose network. In this part of the worksh
 <br>
 
 ---
-NEXT: [03 Deploy Web](docs/03-deploy-web.md)
+NEXT: [03 Deploy Web](03-deploy-web.md)

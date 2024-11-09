@@ -29,4 +29,8 @@ Click `Yes, I trust the authors`.
 7. Save changes and upload to the server.  
 `scp -r . devYY@htwwXX.sit.kmutt.ac.th:how-the-web-works-workshop/src/`  
 
-8. Refresh your web page on the browser.
+8. Refresh your web page on the browser.  
+<br>
+
+---
+[RETURN TO HOME](/README.md)
